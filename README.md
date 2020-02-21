@@ -17,5 +17,3 @@ Running
 -----------------------
 The Z QVM requires the xserverx 
 tremulous dedicated server to run. You can find the code for this server here: https://github.com/IronClawTrem/xserverx-tremded/tree/nomysql
-
-mysql is installed in the repo.
