@@ -6,6 +6,7 @@ Yes, the infamous Zombie mod for the game Tremulous!
 Building
 -----------------------
 MinGW make will build all qvms
+
 Configuration
 -----------------------
 The Z QVM relies on addtional map layouts which can be found in the "layouts" directory.
